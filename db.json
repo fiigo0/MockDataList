@@ -1,22 +1,22 @@
 [
-  {
-    "name" : "Test",
-    "roleId" : 2
-  },
-  {
-    "name" : "GK",
-    "roleId" : 3
-  },
-  {
-    "name" : "gk_create_12312018",
-    "roleId" : 4
-  },
-  {
-    "name" : "Preztel Recovery",
-    "roleId" : 5
-  },
-  {
-    "name" : "nuevo Role",
-    "roleId" : 6
-  }
+   {
+      "name":"Test",
+      "roleId":2
+   },
+   {
+      "name":"GK",
+      "roleId":3
+   },
+   {
+      "name":"gk_create_12312018",
+      "roleId":4
+   },
+   {
+      "name":"Preztel Recovery",
+      "roleId":5
+   },
+   {
+      "name":"nuevo Role",
+      "roleId":6
+   }
 ]
